@@ -4,6 +4,7 @@ This was one of my mini projects in the Networks Laboratory (CS39006) at IIT Kha
 
 
 ## 1. Results (Average Transmissions per Message, T = 5s)
+p = probability of dropping packets (to simulate real life unreliable network)
 
 | p    | msgs generated | msgs sent | msgs sent / msgs generated |
 |------|---------------|-----------|-----------------------------|
